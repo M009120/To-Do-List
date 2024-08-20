@@ -28,9 +28,3 @@ addTask.addEventListener("click", () => {
   }
 });
 
-// // Optional: Allow pressing Enter to add a task
-// taskInput.addEventListener("keypress", (event) => {
-//   if (event.key === "Enter") {
-//     addTaskButton.click();
-//   }
-// });
